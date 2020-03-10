@@ -1,5 +1,6 @@
 # SQCache
-A lightweight, pure-Swift library for cache framework in iOS.
+- A lightweight, pure-Swift library for cache framework in iOS.
+- 轻量、纯Swift内存缓存库，For iOS。
 
 单元测试
 ==============
